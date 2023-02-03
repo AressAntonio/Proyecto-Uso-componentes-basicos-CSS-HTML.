@@ -12,7 +12,7 @@
 <ol>
 	<li>Descargar repo del proyecto.</li>
 	<li>Abrir carpeta del proyecto.</li>
-	<li>Abrir script .html con navegador de su eleccion.</li>
+	<li>Abrir script .html con IDE(para ver codigo) y navegador(para ver pagina web) de su eleccion.</li>
 </ol><br>
 
 <table>
